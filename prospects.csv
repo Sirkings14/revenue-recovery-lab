@@ -1,0 +1,2 @@
+company,website,industry,employees,has_contact_form,has_booking_flow,has_crm_visible,response_time_hours,follow_up_sequence_visible,lead_magnet_or_offer,pipeline_friction,stale_or_missing_cta
+Example Company,https://example.com,B2B services,25,true,true,false,14,false,false,2,true
